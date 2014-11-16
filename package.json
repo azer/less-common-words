@@ -1,0 +1,27 @@
+{
+  "name": "less-common-words",
+  "version": "0.0.0",
+  "description": "Extract words except the most common english words from given text",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "keywords": [
+    "english",
+    "common",
+    "words",
+    "extract"
+  ],
+  "repository": {
+    "url": "git@github.com:azer/less-common-words.git",
+    "type": "git"
+  },
+  "author": "azer",
+  "license": "BSD",
+  "dependencies": {
+    "most-common-words": "*"
+  },
+  "devDependencies": {
+    "prova": "^1.15.0"
+  }
+}
