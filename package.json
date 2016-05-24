@@ -19,7 +19,7 @@
   "author": "azer",
   "license": "BSD",
   "dependencies": {
-    "most-common-words": "*"
+    "most-common-words": "azer/most-common-words"
   },
   "devDependencies": {
     "prova": "^1.15.0"
